@@ -1,0 +1,6 @@
+E:\LTWGIT\CSharp_test\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\LTWGIT\CSharp_test\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\LTWGIT\CSharp_test\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\LTWGIT\CSharp_test\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\LTWGIT\CSharp_test\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\LTWGIT\CSharp_test\Calculator\Calculator\obj\Debug\Calculator.pdb
